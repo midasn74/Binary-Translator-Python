@@ -14,7 +14,7 @@ from BinaryTranslator import *
 
 ## Example's
 
-#####Text to binary:
+##### Text to binary:
 
 ```
 input:
@@ -25,7 +25,7 @@ output:
   100000 1010111 1101111 1110010 1101100 1100100
 ```
 
-#####Binary to text:
+##### Binary to text:
 
 ```
 input:
@@ -37,7 +37,7 @@ output:
 ```
 <p>&nbsp;</p>
 
-#####You can also change the seperator (seperator is one space a default).
+##### You can also change the seperator (seperator is one space a default).
 
 ```
 input:
@@ -57,7 +57,7 @@ output:
 ```
 <p>&nbsp;</p>
 
-#####Or write it to external files.
+##### Or write it to external files.
 _code_
 ```
 text = textToBinary("1001000 1100101 1101100 1101100 1101111 101100 
@@ -74,7 +74,7 @@ _example.txt_
 ```
 <p>&nbsp;</p>
 
-#####Or read from external files.
+##### Or read from external files.
 _example.txt_
 ```text
 1001000 1100101 1101100 1101100 1101111 101100 100000 1010111 1101111 1110010 1101100 1100100
