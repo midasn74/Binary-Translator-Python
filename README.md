@@ -6,7 +6,7 @@ This is a really simple binary translator made with python.
   - Translate text to binary.
   <p>&nbsp;</p>
 
-##import
+## import
 ``
 from BinaryTranslator import *
 ``
